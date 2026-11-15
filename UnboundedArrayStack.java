@@ -42,8 +42,7 @@ private int[] data = new int[INITIAL_CAPACITY];
 
     public static void main(String[] args) {
         UnboundedArrayStack s = new UnboundedArrayStack();
-        System.out.println("=== Unbounded Array Stack ===");
-        System.out.println("-- pushing 1..20 --");
+      
         for (int i = 1; i <= 20; i++) {
             s.push(i);
             System.out.println("push " + i + " | size=" + s.size() + " capacity=" + s.capacity());

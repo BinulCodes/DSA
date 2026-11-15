@@ -64,7 +64,7 @@ void enqueue(int x) {
     }
     public static void main(String[] args) {
         QueueStackPushFriendly s = new QueueStackPushFriendly();
-        System.out.println("=== QueueStack - Push Friendly ===");
+      
         for (int i = 1; i <= 5; i++) {
          s.push(i * 10);
          System.out.println("push " + (i * 10));

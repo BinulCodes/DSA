@@ -56,7 +56,7 @@ public int peek() {
 
     public static void main(String[] args) {
         StackQueueEnqueueFriendly q = new StackQueueEnqueueFriendly();
-        System.out.println("=== StackQueue - Enqueue Friendly ===");
+        
         for (int i = 1; i <= 5; i++) {
             q.enqueue(i * 10);
             System.out.println("enqueue " + (i * 10));

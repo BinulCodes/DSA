@@ -55,7 +55,7 @@ public int peek() {
     public int size() { return q1.size(); }
  public static void main(String[] args) {
     QueueStackPopFriendly s = new QueueStackPopFriendly();
-    System.out.println("=== QueueStack - Pop Friendly ===");
+
     for (int i = 1; i <= 5; i++) {
             s.push(i * 10);
             System.out.println("push " + (i * 10));
