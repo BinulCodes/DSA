@@ -1,0 +1,15 @@
+C:\Users\Win11\OneDrive\Desktop\LNBTI\SEMESTER 3\DSA\SUBMISSION 01\IfElseApp\bin\Debug\net10.0\IfElseApp.exe
+C:\Users\Win11\OneDrive\Desktop\LNBTI\SEMESTER 3\DSA\SUBMISSION 01\IfElseApp\bin\Debug\net10.0\IfElseApp.deps.json
+C:\Users\Win11\OneDrive\Desktop\LNBTI\SEMESTER 3\DSA\SUBMISSION 01\IfElseApp\bin\Debug\net10.0\IfElseApp.runtimeconfig.json
+C:\Users\Win11\OneDrive\Desktop\LNBTI\SEMESTER 3\DSA\SUBMISSION 01\IfElseApp\bin\Debug\net10.0\IfElseApp.dll
+C:\Users\Win11\OneDrive\Desktop\LNBTI\SEMESTER 3\DSA\SUBMISSION 01\IfElseApp\bin\Debug\net10.0\IfElseApp.pdb
+C:\Users\Win11\OneDrive\Desktop\LNBTI\SEMESTER 3\DSA\SUBMISSION 01\IfElseApp\obj\Debug\net10.0\IfElseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win11\OneDrive\Desktop\LNBTI\SEMESTER 3\DSA\SUBMISSION 01\IfElseApp\obj\Debug\net10.0\IfElseApp.AssemblyInfoInputs.cache
+C:\Users\Win11\OneDrive\Desktop\LNBTI\SEMESTER 3\DSA\SUBMISSION 01\IfElseApp\obj\Debug\net10.0\IfElseApp.AssemblyInfo.cs
+C:\Users\Win11\OneDrive\Desktop\LNBTI\SEMESTER 3\DSA\SUBMISSION 01\IfElseApp\obj\Debug\net10.0\IfElseApp.csproj.CoreCompileInputs.cache
+C:\Users\Win11\OneDrive\Desktop\LNBTI\SEMESTER 3\DSA\SUBMISSION 01\IfElseApp\obj\Debug\net10.0\IfElseApp.sourcelink.json
+C:\Users\Win11\OneDrive\Desktop\LNBTI\SEMESTER 3\DSA\SUBMISSION 01\IfElseApp\obj\Debug\net10.0\IfElseApp.dll
+C:\Users\Win11\OneDrive\Desktop\LNBTI\SEMESTER 3\DSA\SUBMISSION 01\IfElseApp\obj\Debug\net10.0\refint\IfElseApp.dll
+C:\Users\Win11\OneDrive\Desktop\LNBTI\SEMESTER 3\DSA\SUBMISSION 01\IfElseApp\obj\Debug\net10.0\IfElseApp.pdb
+C:\Users\Win11\OneDrive\Desktop\LNBTI\SEMESTER 3\DSA\SUBMISSION 01\IfElseApp\obj\Debug\net10.0\IfElseApp.genruntimeconfig.cache
+C:\Users\Win11\OneDrive\Desktop\LNBTI\SEMESTER 3\DSA\SUBMISSION 01\IfElseApp\obj\Debug\net10.0\ref\IfElseApp.dll
