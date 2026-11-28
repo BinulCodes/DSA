@@ -1,9 +1,6 @@
 import java.util.EmptyStackException;
 
-/**
- * Generic Stack (LIFO) implemented using a singly linked list.
- * The top of the stack is the head of the list, so push and pop are both O(1).
- */
+
 public class LinkedListStack<T> {
 
     private static class Node<T> {

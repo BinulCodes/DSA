@@ -1,9 +1,6 @@
 import java.util.NoSuchElementException;
 
-/**
- * Generic FIFO Queue implemented using a singly linked list with head and tail pointers.
- * Enqueue at the tail, dequeue from the head - both O(1).
- */
+
 public class LinkedListFIFOQueue<T> {
 
     private static class Node<T> {
@@ -15,8 +12,8 @@ public class LinkedListFIFOQueue<T> {
         }
     }
 
-    private Node<T> head; // front of the queue
-    private Node<T> tail; // back of the queue
+    private Node<T> head;
+    private Node<T> tail; 
     private int size;
 
     public void enqueue(T item) {
@@ -34,7 +31,7 @@ public class LinkedListFIFOQueue<T> {
         if (isEmpty()) throw new NoSuchElementException("Queue is empty");
         T data = head.data;
         head = head.next;
-        if (head == null) tail = null; // queue became empty
+        if (head == null) tail = null; 
         size--;
         return data;
     }
@@ -73,7 +70,7 @@ public class LinkedListFIFOQueue<T> {
         System.out.println(sb);
     }
 
-    // ---------- demo ----------
+
     public static void main(String[] args) {
         LinkedListFIFOQueue<String> queue = new LinkedListFIFOQueue<>();
 
